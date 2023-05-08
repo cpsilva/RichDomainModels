@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RichDomainModels.Core\RichDomainModels.Core.csproj" />
+  </ItemGroup>
+
 </Project>
